@@ -9,7 +9,7 @@ def decouper_en_mots(un_morceau_de_texte):
     return mots_separes  # Retourner la liste de mots
 
 # Chemin d'accès du texte
-chemin_du_texte = "../data/txt/1907_Leblanc-Maurice_Arsene-Lupin-gentleman-cambrioleur.txt"
+chemin_du_texte = "../data/txt/1830_Stendhal_Le-Rouge-et-le-noir.txt"
 
 # Nombre de mots les plus fréquents à afficher
 nombre_de_mots_voulu = 40
