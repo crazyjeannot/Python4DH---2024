@@ -3,7 +3,7 @@ Repository pour le cours M1 HN de l'École des Chartes S1
 
 ## Séance 01 - Introduction et Fondamentaux
 - Introduction à la programmation en Python.
-- Utilisation de Jupyter notebook comme environnement de développement.
+- Utilisation de Jupyter lab/notebook comme environnement de développement.
 - Compréhension des types de données, déclaration de variables, et manipulation de chaînes de caractères.
 
 ## Séance 02 - Structures de Contrôle et Collections
