@@ -1,0 +1,79 @@
+Groupe labo	Numéro mission	Missionnaire	Date de départ	Ville de départ	Pays de départ	Ville de destination	Pays de destination	Moyens de transport	Nb de pers. dans la voiture	Aller / Retour	Motif du déplacement	Statut agent	Date de retour
+1198	1436	90407198	09/01/2023	VENISE	Italie	PARIS	France	Avion,Train,Train		OUI	Autres		15/01/2023
+1198	1435	90406857	11/01/2023	WESTERLO	Belgique	PARIS	France	Train,Train		OUI	Autres		11/01/2023
+1198	1434	90406849	31/01/2023	LONDRES - EAST BARNET	Royaume-Uni	PARIS	France	Train		OUI	Autres		02/02/2023
+1198	1439	14463	02/02/2023	PARIS	France	CAMBRIDGE	Royaume-Uni	Avion,Train		OUI	Visite, contact pour projet		19/02/2023
+1198	1437	4609	01/03/2023	ST REMY LES CHEVREUSE	France	POTSDAM	Allemagne	Avion,Avion		OUI	Autres		03/03/2023
+1198	1438	3384	22/03/2023	MONTREUIL	France	MUNICH	Allemagne	Avion		OUI	Colloques et congrés		25/03/2023
+1198	1440	90382432	26/03/2023	PARIS	France	DRESDEN	Allemagne	Avion,Train		OUI	Colloques et congrés		30/03/2023
+1198	1441	14463	26/03/2023	LONDRES	Royaume-Uni	Londres	Royaume-Uni	Avion,Taxi	1	OUI	Autres		26/03/2023
+1198	1441	14463	26/03/2023	Londres	Royaume-Uni	Québec	Canada	Avion,Taxi	1	OUI	Autres		29/03/2023
+1198	1441	14463	29/03/2023	Québec	Canada	PARIS	France	Avion,Taxi	1	OUI	Autres		30/03/2023
+1198	1448	90392541	11/04/2023	PARIS	France	BAYREUTH	Allemagne	Avion,Train		OUI	Colloques et congrés		15/04/2023
+1198	1443	90395352	17/04/2023	LIEGE	Belgique	PARIS	France	Train		OUI	Autres		21/04/2023
+1198	1455	14463	26/04/2023	PARIS	France	CAMBRIDGE	Royaume-Uni	Train,Train		OUI	Rech. en équipe, collaboration		08/05/2023
+1198	1447	90392541	28/04/2023	PARIS	France	LE CAIRE	Egypte	Avion		OUI	Rech. doc. ou sur terrain		18/05/2023
+1198	1456	90397157	02/05/2023	NEUILLY-SUR-SEINE	France	CAMBRIDGE	Royaume-Uni	Train,Train		OUI	Rech. en équipe, collaboration		04/05/2023
+1198	1457	90382432	20/05/2023	PARIS	France	LEIPZIG	Allemagne	Train,Train,Train		OUI	Visite, contact pour projet		02/06/2023
+1198	1453	3546	24/05/2023	VERRIERES LE BUISSON	France	TOULOUSE	France	Bus,Train		OUI	Autres		26/05/2023
+1198	1446	29774	24/05/2023	MONTROUGE	France	TOULOUSE	France	Train,Train		OUI	Autres		26/05/2023
+1198	1449	7095	24/05/2023	SAVIGNY SUR ORGE	France	TOULOUSE	France	Bus,Train		OUI	Autres		26/05/2023
+1198	1450	90394857	20/05/2023	PARIS	France	Îles Féroé	Islande	Avion		OUI	Colloques et congrés		21/05/2023
+1198	1450	90394857	21/05/2023	Îles Féroé	Islande	Îles Féroé	Islande	Avion		OUI	Colloques et congrés		25/05/2023
+1198	1450	90394857	25/05/2023	Îles Féroé	Islande	Îles Féroé	Islande	Avion		OUI	Colloques et congrés		29/05/2023
+1198	1461	00057208 - 90038877	29/05/2023	METZ	France	PARIS	France	Train		OUI	Autres		30/05/2023
+1198	1459	90414358	30/05/2023	CAEN	France	PARIS	France	Train		OUI	Autres		30/05/2023
+1198	1467	90028939	30/05/2023	LYON	France	PARIS	France	Train,Train		OUI	Autres		30/05/2023
+1198	1464	3384	31/05/2023	MONTREUIL	France	MARSEILLE	France	Train		OUI	Autres		02/06/2023
+1198	1444	00096099 - 90410721	30/05/2023	PARIS	France	BOSTON	Etats-Unis	Avion,Taxi	1	OUI	Colloques et congrés		04/06/2023
+1198	1444	00096099 - 90410721	04/06/2023	BOSTON	Etats-Unis	PARIS	France	Avion,Taxi	1	OUI	Colloques et congrés		05/06/2023
+1198	1445	90022975	05/06/2023	NANCY	France	PARIS	France	Train		OUI	Autres		07/06/2023
+1198	1442	90359007	05/06/2023	ANVERS	Belgique	PARIS	France	Train		OUI	Autres		08/06/2023
+1198	1472	90415911	05/06/2023	TÜBINGEN	Allemagne	PARIS	France	Train		OUI	Autres		08/06/2023
+1198	1465	90369920	19/06/2023	ST DENIS	France	CAEN	France	Train		OUI	Autres		19/06/2023
+1198	1460	3546	20/06/2023	VERRIERES LE BUISSON	France	STRASBOURG	France	Train,Train		OUI	Colloques et congrés		24/06/2023
+1198	1474	14463	23/06/2023	PARIS	France	CAMBRIDGE	Royaume-Uni	Train,Train		OUI	Rech. en équipe, collaboration		04/07/2023
+1198	1466	90397157	25/06/2023	NEUILLY-SUR-SEINE	France	GENEVE	Suisse	Train		OUI	Colloques et congrés		27/06/2023
+1198	1468	90415329	25/06/2023	PARIS	France	GENEVE	Suisse	Train,Train		OUI	Colloques et congrés		27/06/2023
+1198	1479	90418650	28/06/2023	HAMBURG	Allemagne	PARIS	France	Train		OUI	Autres		29/06/2023
+1198	1478	90418649	28/06/2023	BRUXELLES	Pays-Bas	PARIS	France	Train		OUI	Autres		29/06/2023
+1198	1469	90396537	02/07/2023	MONTROUGE	France	GRENOBLE	France	Train		OUI	Colloques et congrés		07/07/2023
+1198	1470	90379061	02/07/2023	PARIS	France	GRENOBLE	France	Train		OUI	Colloques et congrés		07/07/2023
+1198	1481	90418751	07/07/2023	MOTA LAVA ISLAND	Vanuatu	PORT-VILA	Vanuatu	Avion		OUI	Colloques et congrés		28/07/2023
+1198	1451	00187932 - 90412863	08/07/2023	NOUMEA	France	PORT-VILA	Vanuatu	Avion		OUI	Colloques et congrés		15/07/2023
+1198	1477	00203360 - 90384645	09/07/2023	BARCELONE	Etats-Unis	TORONTO	Canada	Avion,Avion		OUI	Colloques et congrés		16/07/2023
+1198	1480	90418750	10/07/2023	TORRES	Vanuatu	PORT-VILA	Vanuatu	Avion		OUI	Colloques et congrés		24/07/2023
+1198	1471	51306	10/07/2023	PARIS	France	CHICAGO	Etats-Unis	Avion		OUI	Rech. doc. ou sur terrain		15/07/2023
+1198	1471	51306	15/07/2023	CHICAGO	Etats-Unis	BLOOMINGTON	Etats-Unis	Avion		OUI	Rech. doc. ou sur terrain		15/06/2024
+1198	1458	90382432	16/07/2023	PARIS	France	COPENHAGUE	Danemark	Avion		OUI	Colloques et congrés		21/07/2023
+1198	1475	90382432	23/07/2023	PARIS	France	LEIPZIG	Allemagne	Train,Train		OUI	Visite, contact pour projet		03/08/2023
+1198	1463	4609	07/07/2023	ST REMY LES CHEVREUSE	France	Nouméa	France	Avion,Avion		OUI	Colloques et congrés		09/07/2023
+1198	1463	4609	09/07/2023	Nouméa	France	Port Vila	France	Avion,Avion		OUI	Colloques et congrés		16/07/2023
+1198	1463	4609	16/07/2023	Port Vila	France	Nouméa	France	Avion,Avion		OUI	Colloques et congrés		29/07/2023
+1198	1463	4609	29/07/2023	Nouméa	France	Paris	France	Avion,Avion		OUI	Colloques et congrés		30/07/2023
+1198	1462	4609	06/08/2023	ST REMY LES CHEVREUSE	France	DUSSELDORF	Allemagne	Train		OUI	Colloques et congrés		12/08/2023
+1198	1454	90355136	28/08/2023	PARIS	France	ATHENES	Grèce	Avion		OUI	Colloques et congrés		01/09/2023
+1198	1473	3546	28/08/2023	VERRIERES LE BUISSON	France	ATHENES	Grèce	Avion		OUI	Colloques et congrés		03/09/2023
+1198	1483	199652	07/09/2023	Bourg-la-Reine	France	Nantes	France	Train		NON	Colloques, congrès et séminaires		07/09/2023
+1198	1483	199652	07/09/2023	Bourg-la-Reine	France	Nantes	France	Train		NON	Colloques, congrès et séminaires		07/09/2023
+1198	1484	191648	08/09/2023	Bagneux	France	Lille	France	Train		OUI	Enseignement dispensé		08/09/2023
+1198	1482	90396537	12/09/2023	MONTROUGE	France	NANCY	France	Train		OUI	Colloques et congrés		15/09/2023
+1198	1485	14463	13/09/2023	Paris	France	Munich	Allemagne	Avion,Transports en commun		NON	Colloques, congrès et séminaires		14/09/2023
+1198	1485	14463	13/09/2023	Paris	France	Munich	Allemagne	Avion,Transports en commun		NON	Colloques, congrès et séminaires		14/09/2023
+1198	1485	14463	13/09/2023	Paris	France	Munich	Allemagne	Avion,Transports en commun		NON	Colloques, congrès et séminaires		14/09/2023
+1198	1490	00187932 - 90412863	18/09/2023	Noumea	France	Paris	France	Avion,Taxi,Transports en commun	1	OUI	Autres		18/09/2023
+1198	1488	14463	05/10/2023	Paris	France	Cambridge	Royaume-Uni	Train		NON	Recherche en équipe, collaboration		17/10/2023
+1198	1488	14463	05/10/2023	Paris	France	Cambridge	Royaume-Uni	Train		NON	Recherche en équipe, collaboration		17/10/2023
+1198	1487	4609	07/10/2023	Saint-Rémy-lès-Chevreuse	France	Brasilia	Brésil	Avion		OUI	Enseignement dispensé		28/10/2023
+1198	1491	14463	29/10/2023	Londres	Royaume-Uni	New York	Etats-Unis	Avion,Transports en commun		NON	Recherche en équipe, collaboration		04/11/2023
+1198	1491	14463	29/10/2023	Londres	Royaume-Uni	New York	Etats-Unis	Avion,Transports en commun		NON	Recherche en équipe, collaboration		04/11/2023
+1198	1489	 	06/11/2023	PLESCOP	France	Paris	France	Train,Transports en commun		NON	Colloques, congrès et séminaires		07/11/2023
+1198	1489	 	06/11/2023	PLESCOP	France	Paris	France	Train,Transports en commun		NON	Colloques, congrès et séminaires		07/11/2023
+1198	1489	 	06/11/2023	PLESCOP	France	Paris	France	Train,Transports en commun		NON	Colloques, congrès et séminaires		07/11/2023
+1198	1486	 	15/11/2023	Paris	France	Strasbourg	France	Train,Transports en commun		NON	Colloques, congrès et séminaires		17/11/2023
+1198	1486	 	15/11/2023	Paris	France	Strasbourg	France	Train,Transports en commun		NON	Colloques, congrès et séminaires		17/11/2023
+1198	1486	 	15/11/2023	Paris	France	Strasbourg	France	Train,Transports en commun		NON	Colloques, congrès et séminaires		17/11/2023
+1198	1493	14463	06/12/2023	Paris	France	Villejuif	France	Micromobilité (Vélo, trottinette)		OUI	Colloques, congrès et séminaires		08/12/2023
+1198	1492	197049	06/12/2023	Neuilly-sur-Seine	France	Le Kremlin-Bicetre	France	Micromobilité (Vélo, trottinette)		OUI	Colloques, congrès et séminaires		06/12/2023
+1198	1492	197049	07/12/2023	Le Kremlin-Bicetre	France	Le Kremlin-Bicetre	France	Micromobilité (Vélo, trottinette)		OUI	Colloques, congrès et séminaires		07/12/2023
+1198	1492	197049	08/12/2023	Le Kremlin-Bicetre	France	Le Kremlin-Bicetre	France	Micromobilité (Vélo, trottinette)		OUI	Colloques, congrès et séminaires		08/12/2023
